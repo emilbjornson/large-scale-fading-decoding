@@ -3,7 +3,7 @@ Large-Scale-Fading Decoding in Cellular Massive MIMO Systems with Spatially Corr
 
 This is a code package is related to the follow scientific article:
 
-Trinh Van Chien, Christopher Mollén and Emil Björnson, “[Large-Scale-Fading Decoding in Cellular Massive MIMO Systems with Spatially Correlated Channels](https://arxiv.org/abs/1807.08071),” IEEE Transactions on Communications, To appear.
+Trinh Van Chien, Christopher Mollén and Emil Björnson, “[Large-Scale-Fading Decoding in Cellular Massive MIMO Systems with Spatially Correlated Channels](https://arxiv.org/abs/1807.08071),” IEEE Transactions on Communications, vol. 67, no. 4, pp. 2746-2762, April 2019.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
